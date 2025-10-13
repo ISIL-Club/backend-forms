@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EventsApplication<events>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "isildevs.EventsApplication",
+            "projectName": "events",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
